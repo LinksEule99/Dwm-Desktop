@@ -1,0 +1,11 @@
+#!/bin/sh
+
+main() {
+    dialog --checklist 'Welcome back Henry to your setup Helper!' 30 125 125 \
+    'Update my system' 1 'off' \
+    'I want the whole Setup NOW!' 2 'off' \
+    'Clone my Github Repository' 3 'off' \
+    'I want dash as my "sh"!' 4 'off'
+}
+
+main

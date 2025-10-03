@@ -1,0 +1,27 @@
+! --- Fonts ---
+xterm*faceName: xft:JetBrainsMono Nerd Font Mono:size=11
+xterm*scrollBar: false
+
+! --- Colors ---
+xterm*foreground: #ffffff
+xterm*background: #282828
+
+! --- Cursor ---
+xterm*cursorBlink: true
+xterm*cursorColor: #ebdbb2
+
+! --- Color palette ---
+xterm*color0:  #282828
+xterm*color1:  #cc241d
+xterm*color2:  #98971a
+xterm*color3:  #d79921
+xterm*color4:  #458588
+xterm*color5:  #b16286
+xterm*color6:  #689d6a
+xterm*color7:  #a89984
+xterm*color8:  #928374
+xterm*color9:  #fb4934
+xterm*color10: #b8bb26
+xterm*color11: #fabd2f
+xterm*color12: #83a598
+xterm*color13: #d3869b
